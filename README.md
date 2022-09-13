@@ -1,1 +1,1 @@
-# -Financial-Analysis-of-Stock-Data
+# Financial-Analysis-of-Stock-Data
